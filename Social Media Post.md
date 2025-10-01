@@ -1,3 +1,5 @@
+# Post Content Prompt
+
 ```
 Act as a Social Media and SEO Specialist.  
 Create an SEO-based, platform-optimized description for [Post Type].  
