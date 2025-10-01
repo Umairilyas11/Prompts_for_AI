@@ -13,3 +13,14 @@ Include:
 Generate versions tailored for **Facebook, Instagram, LinkedIn, X, YouTube, Pinterest, and TikTok**, making sure each fits the platform’s character limits, style, and best practices.  
 
 [Content] = [Insert Content Here]
+```
+
+# Theme Colors
+## Orange
+```
+#F0582D
+```
+## Black
+```
+#040707
+```
