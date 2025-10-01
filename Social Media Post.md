@@ -16,11 +16,35 @@ Generate versions tailored for **Facebook, Instagram, LinkedIn, X, YouTube, Pint
 ```
 
 # Theme Colors
-## Orange
+## Orange, Red
 ```
-#F0582D
+#BF202E
 ```
-## Black
 ```
-#040707
+#EF582A
+```
+```
+#DD462C
+```
+```
+#CE332E
+```
+```
+#C64E2C
+```
+## Black, White
+```
+#2C504D
+```
+```
+#2C504D
+```
+```
+#2C504D
+```
+```
+#2C504D
+```
+```
+#FFFFFF
 ```
